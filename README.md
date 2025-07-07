@@ -12,7 +12,7 @@ I'm a full-stack web developer, passionate about building modern, functional app
 
 📚 I'm always learning something new and participating in projects that challenge me professionally.
 
-🌱 I’m currently learning vue
+🌱 I’m currently learning Vue.js
 
 💡 Check out my repositories to see what I'm working on or collaborating on. Welcome to my profile!
 
