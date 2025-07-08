@@ -16,4 +16,4 @@ I'm a full-stack web developer, passionate about building modern, functional app
 
 💡 Check out my repositories to see what I'm working on or collaborating on. Welcome to my profile!
 
-LinkedIn: [Sígueme en LinkedIn](https://www.linkedin.com/in/diego-juarez-romero/)
+LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/diego-juarez-romero/)
